@@ -1,0 +1,7 @@
+name: BossPlugin
+version: 1.0
+main: your.package.name.BossPlugin
+api-version: 1.21
+commands:
+  boss:
+    description: Boss komutu
